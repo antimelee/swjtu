@@ -1,0 +1,149 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: CG2016112422κΰ07 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\Administrator\AppData\Local\Temp\RSPA118.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/CG2016112422κΰ07.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp"
+]
+Creating command line "cl.exe @C:\Users\Administrator\AppData\Local\Temp\RSPA118.tmp" 
+Creating temporary file "C:\Users\Administrator\AppData\Local\Temp\RSPA119.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/CG2016112422κΰ07.pdb" /debug /machine:I386 /out:"Debug/CG2016112422κΰ07.exe" /pdbtype:sept 
+".\Debug\CG2016112422κΰ07.obj"
+".\Debug\CG2016112422κΰ07Doc.obj"
+".\Debug\CG2016112422κΰ07View.obj"
+".\Debug\Light_dial.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\CG2016112422κΰ07.res"
+]
+Creating command line "link.exe @C:\Users\Administrator\AppData\Local\Temp\RSPA119.tmp"
+<h3>Output Window</h3>
+Compiling...
+CG2016112422κΰ07View.cpp
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(29) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(29) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(29) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(34) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(313) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(315) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(316) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(316) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(319) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(324) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(326) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(327) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(327) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(330) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(334) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(344) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(347) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(347) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(348) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(349) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(350) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(350) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(353) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(358) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(358) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(359) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(360) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(361) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(361) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(364) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(368) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(375) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(375) : warning C4305: 'argument' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'z1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'z2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'x1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'x2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'y1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(495) : warning C4101: 'y2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'z1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'z2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'x1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'x2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'y1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(526) : warning C4101: 'y2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'z1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'z2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'x1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'x2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'y1' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(557) : warning C4101: 'y2' : unreferenced local variable
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(587) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(588) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(589) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(592) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(593) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(594) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(596) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(597) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(598) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(600) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(609) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(610) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(611) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(614) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(615) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(616) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(618) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(619) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(620) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(622) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(631) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(632) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(633) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(636) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(637) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(638) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(640) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(641) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(642) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(644) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(653) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(654) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(655) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(658) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(659) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(660) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(662) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(663) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(664) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(666) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(675) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(676) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(677) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(678) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(680) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(681) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(682) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(683) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(684) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(685) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(686) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(687) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(688) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(699) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(700) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(701) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(702) : warning C4305: '=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(736) : warning C4305: '+=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(744) : warning C4305: '+=' : truncation from 'const double' to 'float'
+G:\VC++6.0\CG2016112422κΰ07\CG2016112422κΰ07View.cpp(752) : warning C4305: '+=' : truncation from 'const double' to 'float'
+Linking...
+
+
+
+<h3>Results</h3>
+CG2016112422κΰ07.exe - 0 error(s), 111 warning(s)
+</pre>
+</body>
+</html>
